@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\C-Sharp-Tutorials.csproj",
+      "projectUniqueName": "x:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\C-Sharp-Tutorials.csproj",
       "projectName": "C-Sharp-Tutorials",
-      "projectPath": "X:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\C-Sharp-Tutorials.csproj",
+      "projectPath": "x:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\C-Sharp-Tutorials.csproj",
       "packagesPath": "C:\\Users\\Joel Schultz\\.nuget\\packages\\",
-      "outputPath": "X:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\obj\\",
+      "outputPath": "x:\\Univrsal Archives Vol. 4\\Programming\\gitclone\\C-Sharp-Tutorials\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
